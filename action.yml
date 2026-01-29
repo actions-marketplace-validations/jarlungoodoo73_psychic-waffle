@@ -1,6 +1,6 @@
-name: 'TruffleHog OSS'
-description: 'Find and verify leaked credentials in your source code.'
-author: Truffle Security Co. <support@trufflesec.com>
+name: 'Psychic Waffle Secret Scanner'
+description: 'Find and verify leaked credentials in your source code using TruffleHog.'
+author: 'jarlungoodoo73'
 
 inputs:
   path:
